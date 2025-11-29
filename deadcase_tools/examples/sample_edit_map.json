@@ -1,0 +1,18 @@
+[
+  {
+    "time": 2.37,
+    "action": "cut"
+  },
+  {
+    "time": 5.9,
+    "action": "flash",
+    "color": "white",
+    "duration": 0.2
+  },
+  {
+    "time": 7.1,
+    "action": "glitch",
+    "duration": 0.4,
+    "intensity": "high"
+  }
+]
